@@ -1,5 +1,5 @@
 # NCAT-MassComm-2020
-This lesson uses a lexicon-based sentiment analysis approach to analyze customers' tweets with major airlines during the Covid-19 pandemic.
+This lesson uses a lexicon-based sentiment analysis approach to analyze customers' tweets with major airlines during the Covid-19 pandemic. The lesson is derived in-part from Ashwin Malshé's Sentiment Analysis from UTSA's contribution to the genAI Consortium.
 
 
 ## Motivation and Essential Understandings
