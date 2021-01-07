@@ -1,10 +1,14 @@
 # NCAT-MassComm-2020
-This lesson uses a lexicon-based sentiment analysis approach to analyze customers' tweets with major airlines during the Covid-19 pandemic. The lesson is derived in-part from Ashwin Malshé's Sentiment Analysis from UTSA's contribution to the genAI Consortium.
+This lesson uses a lexicon-based sentiment analysis approach to analyze customers' tweets with major airlines during the Covid-19 pandemic. The lesson is derived in-part from Ashwin Malshé's Sentiment Analysis from UTSA's contribution to the genAI Consortium. 
+
+* Note: There are multiple versions of this lesson. The `use_version` is best for beginners in this area, while the `mod_version` is a great option if you'd like to expose students to R code and feel comfortable modifying code with small, guided changes. For a more ambitious approach involving text cleaning and creating visualizations yourself, consider the `create_version`. 
+
+* All of the material for each lesson can be found in its respective folder above. The notes below pertain to the `use_version` of this lesson.
 
 
 ## Motivation and Essential Understandings
 
-Data science is a field that crosses multiple disciplines.  Data scientists utilize many different methods and statistical techniques to gain knowledge and insights about data, including using text data for natural language processing. One such method is called Sentiment analysis.  The goal of this lesson is for students to gain exposure to the kinds of data that can be used with sentiment analysis and to think critically about how the data can be analyzed using a lexicon-based approach to this method.
+Data science is a field that crosses multiple disciplines.  Data scientists utilize many different methods and statistical techniques to gain knowledge and insights about data, including using text data for natural language processing. One such method is called Sentiment analysis.  The goal of this lesson is for students to gain exposure to the kinds of data that can be used with sentiment analysis and to think critically about how the data can be analyzed using a lexicon-based approach to this method. 
 
 •	What is data science?
 
